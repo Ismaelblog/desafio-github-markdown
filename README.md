@@ -74,7 +74,11 @@ Volte para a página do meu repositório original. Você verá um banner amarelo
 
 ---
 
+<div align=center>
+ 
 ### ✨ Obrigado pela colaboração! ✨ 
+
+</div>
 
 
 
