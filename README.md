@@ -65,7 +65,7 @@ Para manter o projeto organizado, siga estas etapas:
 ```
 git add .
 git commit -m "Explique brevemente o que foi feito"
-git push origin sua-branch
+git push origin main
 ```
 
 4. Abra um Pull Request (PR)
